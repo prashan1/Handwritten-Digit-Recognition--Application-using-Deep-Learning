@@ -16,4 +16,5 @@ An attempt is made to recognize handwritten characters for English alphabets usi
 ```
 ![Output3](https://user-images.githubusercontent.com/57286404/80393965-d49e3500-88ce-11ea-97e6-0ccefc07ded6.jpg)
 
+
   
