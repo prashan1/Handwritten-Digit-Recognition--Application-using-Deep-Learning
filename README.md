@@ -14,5 +14,10 @@ An attempt is made to recognize handwritten characters for English alphabets usi
 ## Dataset
 [EMNIST](https://www.nist.gov/itl/iad/image-group/emnist-dataset) dataset is downloaded and made use by using [python mnist-parser](https://github.com/sorki/python-mnist). Following python code will load emnist-balanced dataset to a python variable
 
+## Example
+# 1
+![Output3](https://user-images.githubusercontent.com/57286404/80393965-d49e3500-88ce-11ea-97e6-0ccefc07ded6.jpg)
+# 2
+![Output2](https://user-images.githubusercontent.com/57286404/80394564-a40acb00-88cf-11ea-8ecc-118c9a50305a.jpg)
 
   
