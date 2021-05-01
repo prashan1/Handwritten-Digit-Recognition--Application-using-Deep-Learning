@@ -1,7 +1,7 @@
-# Handwritten-Character-Recognition-using-CNN
+# Handwritten-Digit-Recognition-using-CNN
 This program allows the user to draw a number on the screen and have the program take a guess of which digit it is. This uses a basic neural network model.
 ## Abstract
-An attempt is made to recognize handwritten characters for English alphabets using multilayer Feed Forward neural network. EMNIST dataset which consists of English alphabets and numbers are made use of to train the neural network. EMNIST balanced dataset consist of  131,600 images of characters and 47 classes .The feature extraction technique is obtained by normalizing the pixel values. Pixel values will range from 0 to 255 which represents the intensity of each pixel in the image and they are normalized to represent value between 0 and 1. Convolutional neural network is used as a classifier which trains the EMNIST dataset. The prediction for the given input image is obtained from the trained classifier.
+An attempt is made to recognize handwritten digit using multilayer Feed Forward neural network. EMNIST dataset which consists of numbers made use of to train the neural network. EMNIST balanced dataset consist of  131,600 images of characters and 47 classes .The feature extraction technique is obtained by normalizing the pixel values. Pixel values will range from 0 to 255 which represents the intensity of each pixel in the image and they are normalized to represent value between 0 and 1. Convolutional neural network is used as a classifier which trains the EMNIST dataset. The prediction for the given input image is obtained from the trained classifier.
 
 ## Packages used
 - [Tensorflow](https://www.tensorflow.org/)
